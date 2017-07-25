@@ -7,10 +7,12 @@
   "devDependencies": {},
   "private": true,
   "name": "mustache-exercise",
-  "script" {
+  "scripts": {
     "start": "node app"
-  }
+  },
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git@github.com:SquaredDev/mustache-exercise.git",
+  "author": "James <boydston.j@gmail.com>"
 }
